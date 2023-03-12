@@ -21,8 +21,15 @@ All about regular expressions (regex), tutorials & cheatsheets. Helped me a lot 
 2. [Unix StackExchange](https://unix.stackexchange.com/)<br>
 Basically pretty similar to StackOverflow except this one is more centered in Unix & Linux stuffs. Always been helpful so far.
 
+## Week 02 & 03
+
 3. [RedHat](https://www.redhat.com/sysadmin/create-delete-files-directories-linux)<br>
 One of linux essentials on how to create and delete files and directories. Good stuff!
 
-4. [Linux Journal](https://www.linuxjournal.com/article/8732)
+4. [Linux Journal](https://www.linuxjournal.com/article/8732)<br>
 All about Encrypted tarballs with GnuPG and Tar, guided me through GnuPG ins and outs especially on how to create an encrypted compressed (xz) TARBALL.
+
+## Week 04
+
+5. [The Linux Programming Interface](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)<br>
+A Linux & Unix System Programming Handbook essentials about TLPI's
