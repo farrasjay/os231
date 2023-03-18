@@ -32,4 +32,9 @@ All about Encrypted tarballs with GnuPG and Tar, guided me through GnuPG ins and
 ## Week 04
 
 5. [The Linux Programming Interface](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)<br>
-A Linux & Unix System Programming Handbook essentials about TLPI's
+A Linux & Unix System Programming Handbook essentials about TLPI's.
+
+## Week 05
+
+6. [Debian - Minimum Hardware Requirements](https://www.debian.org/releases/jessie/mips/ch03s04.html.en)<br>
+Useful guidance on how low can my machine allocate its resources, especially memory in order for it to still be working viably. For reference, my machine can go as low as 256MB, anything lower than that will leads to "Warning & Out Of Memory" Errors.
