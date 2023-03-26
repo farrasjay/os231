@@ -38,3 +38,9 @@ A Linux & Unix System Programming Handbook essentials about TLPI's.
 
 6. [Debian - Minimum Hardware Requirements](https://www.debian.org/releases/jessie/mips/ch03s04.html.en)<br>
 Useful guidance on how low can my machine allocate its resources, especially memory in order for it to still be working viably. For reference, my machine can go as low as 256MB, anything lower than that will leads to "Warning & Out Of Memory" Errors.
+
+## Week 06
+
+7. [GeeksForGeeks](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Fork System Call (fork()) in C language. This website contains informations about how to fork() in C.
+
