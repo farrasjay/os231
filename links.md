@@ -44,3 +44,11 @@ Useful guidance on how low can my machine allocate its resources, especially mem
 7. [GeeksForGeeks](https://www.geeksforgeeks.org/fork-system-call/)<br>
 Fork System Call (fork()) in C language. This website contains informations about how to fork() in C.
 
+## Week 07
+
+8. [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+This website contains the general information we need to know about Process Synchronization.
+
+9. [Deadlock in Operating System](https://www.guru99.com/deadlock-in-operating-system.html)<br>
+This website explains about deadlock in Operating System including examples.
+
